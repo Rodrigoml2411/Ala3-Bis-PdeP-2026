@@ -1,0 +1,1 @@
+{"version":3,"file":"AlmacenamientoTareas.d.ts","sourceRoot":"","sources":["../ts/AlmacenamientoTareas.ts"],"names":[],"mappings":"AAEA,OAAO,WAAW,GAAG,QAAQ,eAAe,CAAC,CAAC;AAW9C,kBAAU,oBAAoB,CAAC;IA0E7B,SAAsB,UAAU,IAAI,OAAO,CAAC,WAAW,CAAC,KAAK,EAAE,CAAC,CAe/D;IAED,SAAsB,cAAc,CAAC,MAAM,EAAE,WAAW,CAAC,KAAK,EAAE,GAAG,OAAO,CAAC,IAAI,CAAC,CAe/E;CACF;AAED,SAAS,oBAAoB,CAAC"}

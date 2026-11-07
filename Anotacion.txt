@@ -1,0 +1,12 @@
+------------------------------------------------------------------------------------------
+Anotación: 
+Desde la carpeta raíz del proyecto, ejecuta primero la compilación de TypeScript y 
+después el programa:
+
+npm run build:ts
+npm run start:ts
+-----------------------------------------------------------------------------------------
+
+Verificación: compilación TypeScript exitosa; prueba de lectura y escritura
+temporal confirmó 100 tareas, conservación de campos null y rechazo de estado
+y fecha inválidos :D

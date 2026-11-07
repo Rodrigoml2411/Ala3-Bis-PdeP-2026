@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build:ts": "npx tsc",
+    "start:ts": "node .dist/Ala.js",
+    "start:js": "npm run build:ts && node .dist/Ala.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.2"
+  }
+}
